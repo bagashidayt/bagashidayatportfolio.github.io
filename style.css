@@ -338,6 +338,17 @@ p {
 /* End Projects section */
 
 /* About Section */
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 90%;
+  background-color: #333;
+  line-height: 40px;
+  justify-items: center;
+}
+
 #about .about {
   flex-direction: column-reverse;
   text-align: center;
